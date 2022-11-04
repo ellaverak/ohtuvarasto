@@ -3,6 +3,7 @@ from unittest.mock import patch
 from varasto import Varasto
 import io
 
+#testi
 
 class TestVarasto(unittest.TestCase):
     def setUp(self):
